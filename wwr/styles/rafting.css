@@ -107,6 +107,7 @@ h1 {
   background-color: #fff;
   border-left: 4px solid var(--accent2-color);
   margin: 0;
+  position: absolute;
 }
 
 .hero article p {
