@@ -1,25 +1,11 @@
-/* =============================================
-   RAFTING.CSS – Splash White Water Rafting
-   ============================================= */
-
-/* ── CSS Custom Properties (Design Tokens) ── */
 :root {
   --primary-color: #055a05;
-  /* forest green */
   --accent1-color: #264653;
-  /* dark slate blue */
   --accent2-color: #2a9d8f;
-  /* teal */
   --light-bg: #f0f4f8;
-  /* off-white section background */
   --header-bg: #1a2e44;
-  /* deep navy for header */
   --footer-bg: #1a2e44;
-  /* deep navy for footer */
   --nav-link-color: #e0e8f0;
-  /* light nav text */
-  --nav-link-hover: #2a9d8f;
-  /* teal hover */
   --heading-font: "Georgia", "Times New Roman", serif;
   --body-font: Arial, Helvetica, sans-serif;
   --max-width: 900px;
@@ -136,6 +122,7 @@ h1 {
   object-fit: cover;
   border-radius: 6px;
   flex-shrink: 0;
+  float: right;
 }
 
 .history {
