@@ -107,6 +107,7 @@ h1 {
   background-color: #fff;
   border-left: 4px solid var(--accent2-color);
   margin: 0;
+  position: absolute;
 }
 
 .hero article p {
@@ -243,6 +244,7 @@ footer p {
   height: 32px;
   object-fit: contain;
 }
+<<<<<<< HEAD
 
 /* Screen reader only utility class */
 .sr-only {
@@ -552,3 +554,5 @@ footer p {
     gap: 16px;
   }
 }
+=======
+>>>>>>> 027aff037fbf06e236dc3f4c5f95b99867341cab
