@@ -244,9 +244,8 @@ footer p {
   height: 32px;
   object-fit: contain;
 }
-<<<<<<< HEAD
 
-/* Screen reader only utility class */
+
 .sr-only {
   position: absolute;
   width: 1px;
@@ -259,7 +258,6 @@ footer p {
   border: 0;
 }
 
-/* Contact Page - Company Info Header */
 .company-info-header {
   text-align: center;
   margin: 28px 0 24px 0;
@@ -300,7 +298,6 @@ footer p {
   color: var(--primary-color);
 }
 
-/* Contact Grid Layout (Map + Form) */
 .contact-section {
   padding: 0 12px;
   margin-bottom: 36px;
@@ -330,7 +327,6 @@ footer p {
   display: block;
 }
 
-/* Contact Form Styling */
 .contact-form {
   display: flex;
   flex-direction: column;
@@ -385,7 +381,6 @@ footer p {
   min-height: 100px;
 }
 
-/* Fieldset & Radio Buttons */
 .purpose-fieldset {
   border: 1px solid #cbd5e1;
   border-radius: 6px;
@@ -423,7 +418,6 @@ footer p {
   cursor: pointer;
 }
 
-/* Checkbox Option */
 .checkbox-item {
   display: flex;
   align-items: center;
@@ -445,7 +439,6 @@ footer p {
   line-height: 1.4;
 }
 
-/* Submit Button */
 .submit-button {
   width: 100%;
   padding: 12px 20px;
@@ -471,7 +464,6 @@ footer p {
   transform: translateY(0);
 }
 
-/* Employee Profiles Section */
 .employees-section {
   background-color: var(--light-bg);
   padding: 36px 24px;
@@ -537,22 +529,3 @@ footer p {
   color: #555;
   font-style: italic;
 }
-
-/* Responsive Media Queries */
-@media (max-width: 768px) {
-  .contact-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .map-container,
-  .map-container iframe {
-    min-height: 300px;
-  }
-
-  .employees-grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
-  }
-}
-=======
->>>>>>> 027aff037fbf06e236dc3f4c5f95b99867341cab
