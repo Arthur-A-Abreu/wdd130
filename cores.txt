@@ -1,0 +1,32 @@
+Claro. O azul clarinho é #f8faf5. O azul acinzentado é #5D6D7E. O off-white é #F5F7FA. E o cinza suave é #D9D9D9.
+
+#E6E6FA
+
+
+Opção 1:
+#F8C7A8
+#FFD9C1
+#FFF3E8
+#FEF0E6
+
+Opção 2:
+#4F6D8C
+#6F8FAF
+#BFD7EA
+#EAF4FC
+#F8FAF8
+
+Opção 3:
+#6E5A8A
+#8B78A9
+#DDD3F0
+#F6F3FC
+
+
+Opção 4:
+#8B6B5A
+#F8F4EF
+#EADFD3
+#CDB8A3
+#C2A46D
+#333333
