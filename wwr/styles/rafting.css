@@ -530,9 +530,6 @@ footer p {
   font-style: italic;
 }
 
-/* --- Home Page Specific Styles --- */
-
-/* Hero Image & CTA */
 .hero > img {
   display: block;
   width: 100%;
@@ -588,7 +585,6 @@ footer p {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Purpose & Offerings Grid Section */
 .purpose-offerings {
   padding: 36px 20px;
   background-color: var(--light-bg);
@@ -690,9 +686,7 @@ footer p {
   text-align: left;
 }
 
-/* --- Trips Page Specific Styles --- */
 
-/* Home & Trips CTA Section */
 .home-cta-section,
 .trips-cta-section {
   padding: 24px 20px;
@@ -724,7 +718,6 @@ footer p {
 }
 
 
-/* Trips Descriptions Grid */
 .trips-descriptions {
   padding: 36px 20px;
   background-color: #fff;
@@ -807,7 +800,6 @@ footer p {
   margin-bottom: 4px;
 }
 
-/* Trips Table Section */
 .trips-table-section {
   padding: 36px 20px;
   background-color: var(--light-bg);
@@ -866,17 +858,3 @@ footer p {
   font-weight: bold;
   color: var(--primary-color);
 }
-
-@media screen and (max-width: 768px) {
-  .offerings-grid,
-  .trips-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .hero-cta {
-    width: 95%;
-    padding: 12px 16px;
-  }
-}
-
-
